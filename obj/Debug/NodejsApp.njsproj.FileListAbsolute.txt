@@ -1,0 +1,3 @@
+C:\Users\ertug\Documents\GitHub\NodeJS_MSSQL_Server_Connection\obj\Debug\NodejsApp.njsproj.AssemblyReference.cache
+C:\Users\ertug\Documents\GitHub\NodeJS_MSSQL_Server_Connection\obj\Debug\NodejsApp.njsproj.CoreCompileInputs.cache
+C:\Users\ertug\Documents\GitHub\NodeJS_MSSQL_Server_Connection\bin\Microsoft.NodejsTools.WebRole.dll
